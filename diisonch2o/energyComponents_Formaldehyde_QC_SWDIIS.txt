@@ -1,0 +1,632 @@
+ NEO-SCF Cycles 1
+  --------Nuclear Block--------
+	 Nuclear Repulsion = 20.8200869823
+	 One-Particle = 0.0000000000
+	 [Nuc] Nuclear total Coulomb = 0.0000000000
+	 [Nuc] Nuclear HF Exchange = -0.0000000000
+	 Nuclear-Electronic Coulomb = 0.0000000000
+	 Electronic Energy = 0.0000000000
+	 Nuclear Repulsion = 20.8200869823
+	 One-Particle = 9.7941243456
+	 [Nuc] Nuclear total Coulomb = 2.5704031176
+	 [Nuc] Nuclear HF Exchange = -2.2919133579
+	 Nuclear-Electronic Coulomb = -12.3527388625
+	 Electronic Energy = 0.0000000000
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 20.8200869823
+	 One-Particle = 9.7785347931
+	 [Nuc] Nuclear total Coulomb = 2.5702987591
+	 [Nuc] Nuclear HF Exchange = -2.2927056018
+	 Nuclear-Electronic Coulomb = -12.3371256244
+	 Electronic Energy = 0.0000000000
+    1      18.5399622251      9.47e-03  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.5807733791e+00
+	 [Nuc] Nuclear total Coulomb = 2.5843807502e+00
+	 [Nuc] Nuclear HF Exchange = -2.3184891135e+00
+	 Nuclear-Electronic Coulomb = -1.2134061779e+01
+	 Electronic Energy = 0.0000000000e+00
+    2      18.5390893083      8.90e-03  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.5797325812e+00
+	 [Nuc] Nuclear total Coulomb = 2.5840616610e+00
+	 [Nuc] Nuclear HF Exchange = -2.3186909235e+00
+	 Nuclear-Electronic Coulomb = -1.2132630939e+01
+	 Electronic Energy = 0.0000000000e+00
+    3      18.5326902191      1.94e-03  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6094165213e+00
+	 [Nuc] Nuclear total Coulomb = 2.5780845416e+00
+	 [Nuc] Nuclear HF Exchange = -2.3136431871e+00
+	 Nuclear-Electronic Coulomb = -1.2161685858e+01
+	 Electronic Energy = 0.0000000000e+00
+    4      18.5325593625      1.66e-03  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6093023204e+00
+	 [Nuc] Nuclear total Coulomb = 2.5781039522e+00
+	 [Nuc] Nuclear HF Exchange = -2.3136634260e+00
+	 Nuclear-Electronic Coulomb = -1.2161570829e+01
+	 Electronic Energy = 0.0000000000e+00
+    5      18.5322590006      3.64e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6093230065e+00
+	 [Nuc] Nuclear total Coulomb = 2.5781004345e+00
+	 [Nuc] Nuclear HF Exchange = -2.3136597538e+00
+	 Nuclear-Electronic Coulomb = -1.2161591670e+01
+	 Electronic Energy = 0.0000000000e+00
+    6      18.5322589995      8.08e-07  
+    7      18.5322589995      3.02e-09  
+    8      18.5322589995      3.02e-09  Convergence criterion met
+  -----------------------------
+
+  --------Electronic Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0312889971e+02
+	 [Elec] Total Coulomb = 8.6638221035e+01
+	 [Elec] HF Exchange = -1.4173198942e+01
+	 Nuclear-Electronic Coulomb = -1.2161591670e+01
+	 Nuclear Energy = 9.8737636873e+00
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0368604756e+02
+	 [Elec] Total Coulomb = 8.7138326319e+01
+	 [Elec] HF Exchange = -1.4209983584e+01
+	 Nuclear-Electronic Coulomb = -1.2074259785e+01
+	 Nuclear Energy = 9.8737636873e+00
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0368927106e+02
+	 [Elec] Total Coulomb = 8.7137676242e+01
+	 [Elec] HF Exchange = -1.4207108439e+01
+	 Nuclear-Electronic Coulomb = -1.2073342121e+01
+	 Nuclear Energy = 9.8737636873e+00
+    1    -112.1381139384      2.30e-03  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0370359157e+02
+	 [Elec] Total Coulomb = 8.7151810064e+01
+	 [Elec] HF Exchange = -1.4209208915e+01
+	 Nuclear-Electronic Coulomb = -1.2071076653e+01
+	 Nuclear Energy = 9.8737636873e+00
+    2    -112.1381947080      9.38e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0370376721e+02
+	 [Elec] Total Coulomb = 8.7151797609e+01
+	 [Elec] HF Exchange = -1.4209081285e+01
+	 Nuclear-Electronic Coulomb = -1.2071017975e+01
+	 Nuclear Energy = 9.8737636873e+00
+    3    -112.1382164072      2.71e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0370410348e+02
+	 [Elec] Total Coulomb = 8.7152112371e+01
+	 [Elec] HF Exchange = -1.4209100380e+01
+	 Nuclear-Electronic Coulomb = -1.2070977704e+01
+	 Nuclear Energy = 9.8737636873e+00
+    4    -112.1382181892      8.16e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0370421490e+02
+	 [Elec] Total Coulomb = 8.7152222746e+01
+	 [Elec] HF Exchange = -1.4209108441e+01
+	 Nuclear-Electronic Coulomb = -1.2070968608e+01
+	 Nuclear Energy = 9.8737636873e+00
+    5    -112.1382185275      1.34e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0370421416e+02
+	 [Elec] Total Coulomb = 8.7152222410e+01
+	 [Elec] HF Exchange = -1.4209108721e+01
+	 Nuclear-Electronic Coulomb = -1.2070968739e+01
+	 Nuclear Energy = 9.8737636873e+00
+    6    -112.1382185370      5.58e-07  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0370421378e+02
+	 [Elec] Total Coulomb = 8.7152222059e+01
+	 [Elec] HF Exchange = -1.4209108725e+01
+	 Nuclear-Electronic Coulomb = -1.2070968763e+01
+	 Nuclear Energy = 9.8737636873e+00
+    7    -112.1382185370      8.94e-08  
+    8    -112.1382185370      4.38e-09  
+    9    -112.1382185370      4.38e-09  Convergence criterion met
+  -----------------------------
+
+
+ NEO-SCF Cycles 2
+  --------Nuclear Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6093230065e+00
+	 [Nuc] Nuclear total Coulomb = 2.5781004345e+00
+	 [Nuc] Nuclear HF Exchange = -2.3136597538e+00
+	 Nuclear-Electronic Coulomb = -1.2070968763e+01
+	 Electronic Energy = -1.3076110044e+02
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6135571630e+00
+	 [Nuc] Nuclear total Coulomb = 2.5773642993e+00
+	 [Nuc] Nuclear HF Exchange = -2.3128084458e+00
+	 Nuclear-Electronic Coulomb = -1.2075368089e+01
+	 Electronic Energy = -1.3076110044e+02
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6175451086e+00
+	 [Nuc] Nuclear total Coulomb = 2.5766765514e+00
+	 [Nuc] Nuclear HF Exchange = -2.3120130188e+00
+	 Nuclear-Electronic Coulomb = -1.2079507717e+01
+	 Electronic Energy = -1.3076110044e+02
+    1    -112.1382685337      2.13e-03  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6790804327e+00
+	 [Nuc] Nuclear total Coulomb = 2.5667662598e+00
+	 [Nuc] Nuclear HF Exchange = -2.3004465069e+00
+	 Nuclear-Electronic Coulomb = -1.2143021859e+01
+	 Electronic Energy = -1.3076110044e+02
+    2    -112.1383125369      2.00e-03  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6777006276e+00
+	 [Nuc] Nuclear total Coulomb = 2.5670504037e+00
+	 [Nuc] Nuclear HF Exchange = -2.3009307586e+00
+	 Nuclear-Electronic Coulomb = -1.2141446635e+01
+	 Electronic Energy = -1.3076110044e+02
+    3    -112.1386351347      2.28e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6802288930e+00
+	 [Nuc] Nuclear total Coulomb = 2.5667725833e+00
+	 [Nuc] Nuclear HF Exchange = -2.3007555298e+00
+	 Nuclear-Electronic Coulomb = -1.2143874546e+01
+	 Electronic Energy = -1.3076110044e+02
+    4    -112.1386398231      1.31e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6802303315e+00
+	 [Nuc] Nuclear total Coulomb = 2.5667723723e+00
+	 [Nuc] Nuclear HF Exchange = -2.3007552843e+00
+	 Nuclear-Electronic Coulomb = -1.2143876019e+01
+	 Electronic Energy = -1.3076110044e+02
+    5    -112.1386420606      5.09e-08  
+    6    -112.1386420606      5.99e-09  
+    7    -112.1386420606      5.99e-09  Convergence criterion met
+  -----------------------------
+
+  --------Electronic Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0370421378e+02
+	 [Elec] Total Coulomb = 8.7152222059e+01
+	 [Elec] HF Exchange = -1.4209108725e+01
+	 Nuclear-Electronic Coulomb = -1.2143876019e+01
+	 Nuclear Energy = 9.9462474195e+00
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373146532e+02
+	 [Elec] Total Coulomb = 8.7175671835e+01
+	 [Elec] HF Exchange = -1.4209507720e+01
+	 Nuclear-Electronic Coulomb = -1.2139721516e+01
+	 Nuclear Energy = 9.9462474195e+00
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373996706e+02
+	 [Elec] Total Coulomb = 8.7183957547e+01
+	 [Elec] HF Exchange = -1.4210641437e+01
+	 Nuclear-Electronic Coulomb = -1.2138374231e+01
+	 Nuclear Energy = 9.9462474195e+00
+    1    -112.1386883173      4.21e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373750651e+02
+	 [Elec] Total Coulomb = 8.7181472041e+01
+	 [Elec] HF Exchange = -1.4210236984e+01
+	 Nuclear-Electronic Coulomb = -1.2138754774e+01
+	 Nuclear Energy = 9.9462474195e+00
+    2    -112.1386907784      2.17e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373752162e+02
+	 [Elec] Total Coulomb = 8.7181480300e+01
+	 [Elec] HF Exchange = -1.4210238976e+01
+	 Nuclear-Electronic Coulomb = -1.2138745954e+01
+	 Nuclear Energy = 9.9462474195e+00
+    3    -112.1386918206      2.71e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373744962e+02
+	 [Elec] Total Coulomb = 8.7181413103e+01
+	 [Elec] HF Exchange = -1.4210235025e+01
+	 Nuclear-Electronic Coulomb = -1.2138754717e+01
+	 Nuclear Energy = 9.9462474195e+00
+    4    -112.1386918493      9.49e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373744522e+02
+	 [Elec] Total Coulomb = 8.7181409173e+01
+	 [Elec] HF Exchange = -1.4210234943e+01
+	 Nuclear-Electronic Coulomb = -1.2138755262e+01
+	 Nuclear Energy = 9.9462474195e+00
+    5    -112.1386918538      1.49e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373744516e+02
+	 [Elec] Total Coulomb = 8.7181409087e+01
+	 [Elec] HF Exchange = -1.4210234922e+01
+	 Nuclear-Electronic Coulomb = -1.2138755260e+01
+	 Nuclear Energy = 9.9462474195e+00
+    6    -112.1386918539      4.94e-08  
+    7    -112.1386918539      9.27e-09  
+    8    -112.1386918539      9.27e-09  Convergence criterion met
+  -----------------------------
+
+
+ NEO-SCF Cycles 3
+  --------Nuclear Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6802303315e+00
+	 [Nuc] Nuclear total Coulomb = 2.5667723723e+00
+	 [Nuc] Nuclear HF Exchange = -2.3007552843e+00
+	 Nuclear-Electronic Coulomb = -1.2138755260e+01
+	 Electronic Energy = -1.3076627100e+02
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6808072517e+00
+	 [Nuc] Nuclear total Coulomb = 2.5666855404e+00
+	 [Nuc] Nuclear HF Exchange = -2.3006510596e+00
+	 Nuclear-Electronic Coulomb = -1.2139350381e+01
+	 Electronic Energy = -1.3076627100e+02
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6813482976e+00
+	 [Nuc] Nuclear total Coulomb = 2.5666042638e+00
+	 [Nuc] Nuclear HF Exchange = -2.3005535437e+00
+	 Nuclear-Electronic Coulomb = -1.2139908377e+01
+	 Electronic Energy = -1.3076627100e+02
+    1    -112.1386926622      2.71e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6894174138e+00
+	 [Nuc] Nuclear total Coulomb = 2.5654054220e+00
+	 [Nuc] Nuclear HF Exchange = -2.2991135012e+00
+	 Nuclear-Electronic Coulomb = -1.2148223829e+01
+	 Electronic Energy = -1.3076627100e+02
+    2    -112.1386933722      2.54e-04  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6894963889e+00
+	 [Nuc] Nuclear total Coulomb = 2.5654125667e+00
+	 [Nuc] Nuclear HF Exchange = -2.2991467178e+00
+	 Nuclear-Electronic Coulomb = -1.2148276780e+01
+	 Electronic Energy = -1.3076627100e+02
+    3    -112.1386985074      1.89e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6895634900e+00
+	 [Nuc] Nuclear total Coulomb = 2.5654026960e+00
+	 [Nuc] Nuclear HF Exchange = -2.2991348336e+00
+	 Nuclear-Electronic Coulomb = -1.2148345895e+01
+	 Electronic Energy = -1.3076627100e+02
+    4    -112.1386985559      2.10e-06  
+    5    -112.1386985562      5.13e-10  
+    6    -112.1386985562      5.13e-10  Convergence criterion met
+  -----------------------------
+
+  --------Electronic Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0373744516e+02
+	 [Elec] Total Coulomb = 8.7181409087e+01
+	 [Elec] HF Exchange = -1.4210234922e+01
+	 Nuclear-Electronic Coulomb = -1.2148345895e+01
+	 Nuclear Energy = 9.9558313524e+00
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374097054e+02
+	 [Elec] Total Coulomb = 8.7184438040e+01
+	 [Elec] HF Exchange = -1.4210274441e+01
+	 Nuclear-Electronic Coulomb = -1.2147810800e+01
+	 Nuclear Energy = 9.9558313524e+00
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374219367e+02
+	 [Elec] Total Coulomb = 8.7185633131e+01
+	 [Elec] HF Exchange = -1.4210440351e+01
+	 Nuclear-Electronic Coulomb = -1.2147616899e+01
+	 Nuclear Energy = 9.9558313524e+00
+    1    -112.1386994015      6.09e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374183736e+02
+	 [Elec] Total Coulomb = 8.7185273760e+01
+	 [Elec] HF Exchange = -1.4210381991e+01
+	 Nuclear-Electronic Coulomb = -1.2147672212e+01
+	 Nuclear Energy = 9.9558313524e+00
+    2    -112.1386994522      3.19e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374184038e+02
+	 [Elec] Total Coulomb = 8.7185275887e+01
+	 [Elec] HF Exchange = -1.4210382414e+01
+	 Nuclear-Electronic Coulomb = -1.2147670902e+01
+	 Nuclear Energy = 9.9558313524e+00
+    3    -112.1386994742      3.46e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374183111e+02
+	 [Elec] Total Coulomb = 8.7185267224e+01
+	 [Elec] HF Exchange = -1.4210381901e+01
+	 Nuclear-Electronic Coulomb = -1.2147672019e+01
+	 Nuclear Energy = 9.9558313524e+00
+    4    -112.1386994747      1.23e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374183048e+02
+	 [Elec] Total Coulomb = 8.7185266650e+01
+	 [Elec] HF Exchange = -1.4210381876e+01
+	 Nuclear-Electronic Coulomb = -1.2147672104e+01
+	 Nuclear Energy = 9.9558313524e+00
+    5    -112.1386994748      1.86e-07  
+    6    -112.1386994748      6.29e-09  
+    7    -112.1386994748      6.29e-09  Convergence criterion met
+  -----------------------------
+
+
+ NEO-SCF Cycles 4
+  --------Nuclear Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6895634900e+00
+	 [Nuc] Nuclear total Coulomb = 2.5654026960e+00
+	 [Nuc] Nuclear HF Exchange = -2.2991348336e+00
+	 Nuclear-Electronic Coulomb = -1.2147672104e+01
+	 Electronic Energy = -1.3076694571e+02
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6896440594e+00
+	 [Nuc] Nuclear total Coulomb = 2.5653907594e+00
+	 [Nuc] Nuclear HF Exchange = -2.2991203497e+00
+	 Nuclear-Electronic Coulomb = -1.2147755236e+01
+	 Electronic Energy = -1.3076694571e+02
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6897195701e+00
+	 [Nuc] Nuclear total Coulomb = 2.5653795793e+00
+	 [Nuc] Nuclear HF Exchange = -2.2991067895e+00
+	 Nuclear-Electronic Coulomb = -1.2147833140e+01
+	 Electronic Energy = -1.3076694571e+02
+    1    -112.1386994904      3.76e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6908386553e+00
+	 [Nuc] Nuclear total Coulomb = 2.5652142055e+00
+	 [Nuc] Nuclear HF Exchange = -2.2989062512e+00
+	 Nuclear-Electronic Coulomb = -1.2148987489e+01
+	 Electronic Energy = -1.3076694571e+02
+    2    -112.1386995041      3.53e-05  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6908539197e+00
+	 [Nuc] Nuclear total Coulomb = 2.5652138628e+00
+	 [Nuc] Nuclear HF Exchange = -2.2989082796e+00
+	 Nuclear-Electronic Coulomb = -1.2149000382e+01
+	 Electronic Energy = -1.3076694571e+02
+    3    -112.1386996025      1.87e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6908551898e+00
+	 [Nuc] Nuclear total Coulomb = 2.5652136685e+00
+	 [Nuc] Nuclear HF Exchange = -2.2989080352e+00
+	 Nuclear-Electronic Coulomb = -1.2149001703e+01
+	 Electronic Energy = -1.3076694571e+02
+    4    -112.1386996030      4.23e-08  
+    5    -112.1386996030      2.94e-12  
+    6    -112.1386996030      2.94e-12  Convergence criterion met
+  -----------------------------
+
+  --------Electronic Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374183048e+02
+	 [Elec] Total Coulomb = 8.7185266650e+01
+	 [Elec] HF Exchange = -1.4210381876e+01
+	 Nuclear-Electronic Coulomb = -1.2149001703e+01
+	 Nuclear Energy = 9.9571608231e+00
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374230689e+02
+	 [Elec] Total Coulomb = 8.7185674901e+01
+	 [Elec] HF Exchange = -1.4210385939e+01
+	 Nuclear-Electronic Coulomb = -1.2148929501e+01
+	 Nuclear Energy = 9.9571608231e+00
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374248281e+02
+	 [Elec] Total Coulomb = 8.7185847024e+01
+	 [Elec] HF Exchange = -1.4210410020e+01
+	 Nuclear-Electronic Coulomb = -1.2148901619e+01
+	 Nuclear Energy = 9.9571608231e+00
+    1    -112.1386996194      8.82e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374243124e+02
+	 [Elec] Total Coulomb = 8.7185795033e+01
+	 [Elec] HF Exchange = -1.4210401584e+01
+	 Nuclear-Electronic Coulomb = -1.2148909632e+01
+	 Nuclear Energy = 9.9571608231e+00
+    2    -112.1386996205      4.63e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374243174e+02
+	 [Elec] Total Coulomb = 8.7185795409e+01
+	 [Elec] HF Exchange = -1.4210401657e+01
+	 Nuclear-Electronic Coulomb = -1.2148909440e+01
+	 Nuclear Energy = 9.9571608231e+00
+    3    -112.1386996210      4.75e-07  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374243047e+02
+	 [Elec] Total Coulomb = 8.7185794223e+01
+	 [Elec] HF Exchange = -1.4210401587e+01
+	 Nuclear-Electronic Coulomb = -1.2148909592e+01
+	 Nuclear Energy = 9.9571608231e+00
+    4    -112.1386996210      1.69e-07  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374243038e+02
+	 [Elec] Total Coulomb = 8.7185794140e+01
+	 [Elec] HF Exchange = -1.4210401582e+01
+	 Nuclear-Electronic Coulomb = -1.2148909604e+01
+	 Nuclear Energy = 9.9571608231e+00
+    5    -112.1386996210      2.55e-08  
+    6    -112.1386996210      9.15e-10  
+    7    -112.1386996210      9.15e-10  Convergence criterion met
+  -----------------------------
+
+
+ NEO-SCF Cycles 5
+  --------Nuclear Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6908551898e+00
+	 [Nuc] Nuclear total Coulomb = 2.5652136685e+00
+	 [Nuc] Nuclear HF Exchange = -2.2989080352e+00
+	 Nuclear-Electronic Coulomb = -1.2148909604e+01
+	 Electronic Energy = -1.3076703782e+02
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6908665010e+00
+	 [Nuc] Nuclear total Coulomb = 2.5652119924e+00
+	 [Nuc] Nuclear HF Exchange = -2.2989059932e+00
+	 Nuclear-Electronic Coulomb = -1.2148921281e+01
+	 Electronic Energy = -1.3076703782e+02
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6908770999e+00
+	 [Nuc] Nuclear total Coulomb = 2.5652104224e+00
+	 [Nuc] Nuclear HF Exchange = -2.2989040812e+00
+	 Nuclear-Electronic Coulomb = -1.2148932223e+01
+	 Electronic Energy = -1.3076703782e+02
+    1    -112.1386996213      5.29e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6910338827e+00
+	 [Nuc] Nuclear total Coulomb = 2.5651872120e+00
+	 [Nuc] Nuclear HF Exchange = -2.2988758240e+00
+	 Nuclear-Electronic Coulomb = -1.2149094054e+01
+	 Electronic Energy = -1.3076703782e+02
+    2    -112.1386996216      4.96e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6910358109e+00
+	 [Nuc] Nuclear total Coulomb = 2.5651871406e+00
+	 [Nuc] Nuclear HF Exchange = -2.2988760097e+00
+	 Nuclear-Electronic Coulomb = -1.2149095725e+01
+	 Electronic Energy = -1.3076703782e+02
+    3    -112.1386996235      2.09e-07  
+    4    -112.1386996235      8.48e-10  
+    5    -112.1386996235      8.48e-10  Convergence criterion met
+  -----------------------------
+
+  --------Electronic Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374243038e+02
+	 [Elec] Total Coulomb = 8.7185794140e+01
+	 [Elec] HF Exchange = -1.4210401582e+01
+	 Nuclear-Electronic Coulomb = -1.2149095725e+01
+	 Nuclear Energy = 9.9573469418e+00
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374249608e+02
+	 [Elec] Total Coulomb = 8.7185850350e+01
+	 [Elec] HF Exchange = -1.4210402043e+01
+	 Nuclear-Electronic Coulomb = -1.2149085775e+01
+	 Nuclear Energy = 9.9573469418e+00
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374252114e+02
+	 [Elec] Total Coulomb = 8.7185874883e+01
+	 [Elec] HF Exchange = -1.4210405489e+01
+	 Nuclear-Electronic Coulomb = -1.2149081804e+01
+	 Nuclear Energy = 9.9573469418e+00
+    1    -112.1386996238      1.26e-06  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374251377e+02
+	 [Elec] Total Coulomb = 8.7185867454e+01
+	 [Elec] HF Exchange = -1.4210404284e+01
+	 Nuclear-Electronic Coulomb = -1.2149082950e+01
+	 Nuclear Energy = 9.9573469418e+00
+    2    -112.1386996238      6.63e-07  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374251384e+02
+	 [Elec] Total Coulomb = 8.7185867513e+01
+	 [Elec] HF Exchange = -1.4210404295e+01
+	 Nuclear-Electronic Coulomb = -1.2149082922e+01
+	 Nuclear Energy = 9.9573469418e+00
+    3    -112.1386996239      6.64e-08  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374251367e+02
+	 [Elec] Total Coulomb = 8.7185867348e+01
+	 [Elec] HF Exchange = -1.4210404286e+01
+	 Nuclear-Electronic Coulomb = -1.2149082943e+01
+	 Nuclear Energy = 9.9573469418e+00
+    4    -112.1386996239      2.35e-08  
+    5    -112.1386996239      3.57e-09  
+    6    -112.1386996239      3.57e-09  Convergence criterion met
+  -----------------------------
+
+
+ NEO-SCF Cycles 6
+  --------Nuclear Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6910358109e+00
+	 [Nuc] Nuclear total Coulomb = 2.5651871406e+00
+	 [Nuc] Nuclear HF Exchange = -2.2988760097e+00
+	 Nuclear-Electronic Coulomb = -1.2149082943e+01
+	 Electronic Energy = -1.3076705060e+02
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6910374027e+00
+	 [Nuc] Nuclear total Coulomb = 2.5651869045e+00
+	 [Nuc] Nuclear HF Exchange = -2.2988757215e+00
+	 Nuclear-Electronic Coulomb = -1.2149084587e+01
+	 Electronic Energy = -1.3076705060e+02
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6910388942e+00
+	 [Nuc] Nuclear total Coulomb = 2.5651866832e+00
+	 [Nuc] Nuclear HF Exchange = -2.2988754516e+00
+	 Nuclear-Electronic Coulomb = -1.2149086127e+01
+	 Electronic Energy = -1.3076705060e+02
+    1    -112.1386996239      7.46e-07  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6910609401e+00
+	 [Nuc] Nuclear total Coulomb = 2.5651834145e+00
+	 [Nuc] Nuclear HF Exchange = -2.2988714645e+00
+	 Nuclear-Electronic Coulomb = -1.2149108891e+01
+	 Electronic Energy = -1.3076705060e+02
+    2    -112.1386996239      6.98e-07  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Particle = 9.6910611844e+00
+	 [Nuc] Nuclear total Coulomb = 2.5651834044e+00
+	 [Nuc] Nuclear HF Exchange = -2.2988714856e+00
+	 Nuclear-Electronic Coulomb = -1.2149109105e+01
+	 Electronic Energy = -1.3076705060e+02
+    3    -112.1386996239      2.56e-08  
+    4    -112.1386996239      1.72e-10  
+    5    -112.1386996239      1.72e-10  Convergence criterion met
+  -----------------------------
+
+  --------Electronic Block--------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374251367e+02
+	 [Elec] Total Coulomb = 8.7185867348e+01
+	 [Elec] HF Exchange = -1.4210404286e+01
+	 Nuclear-Electronic Coulomb = -1.2149109105e+01
+	 Nuclear Energy = 9.9573731033e+00
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374252284e+02
+	 [Elec] Total Coulomb = 8.7185875187e+01
+	 [Elec] HF Exchange = -1.4210404344e+01
+	 Nuclear-Electronic Coulomb = -1.2149107716e+01
+	 Nuclear Energy = 9.9573731033e+00
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374252637e+02
+	 [Elec] Total Coulomb = 8.7185878652e+01
+	 [Elec] HF Exchange = -1.4210404832e+01
+	 Nuclear-Electronic Coulomb = -1.2149107156e+01
+	 Nuclear Energy = 9.9573731033e+00
+    1    -112.1386996239      1.79e-07  
+	 Nuclear Repulsion = 2.0820086982e+01
+	 One-Electron = -2.0374252533e+02
+	 [Elec] Total Coulomb = 8.7185877595e+01
+	 [Elec] HF Exchange = -1.4210404660e+01
+	 Nuclear-Electronic Coulomb = -1.2149107319e+01
+	 Nuclear Energy = 9.9573731033e+00
+    2    -112.1386996239      9.37e-08  
+    3    -112.1386996239      9.91e-09  
+    4    -112.1386996239      9.91e-09  Convergence criterion met
+  -----------------------------
+
+****Final Summary*****
+E_Converged = -112.1386996239
+**********************
